@@ -1,0 +1,9 @@
+/* Fondo de la nav */
+.navbar .container-fluid {
+  background-color: #05233f;
+}
+
+/* Items Nav */
+.nav-item {
+  color: white;
+}
