@@ -63,6 +63,11 @@ li i {
   padding-bottom: 2.3rem;
 }
 
+/* estrellas bg */
+.estrella {
+  color: green;
+}
+
 /* Footer */
 footer {
   background-color: #06223de7;
