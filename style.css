@@ -111,9 +111,29 @@ main {
   height: 500px;
 }
 
+/* Carrusel Sutbítulo */
 .carousel-caption {
   text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
 }
+/* Carrusel descripción */
 .carousel-caption p {
   text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
+}
+
+/* Lista servicios  */
+.lista__servicios li {
+  list-style: none;
+  padding: 1rem;
+}
+
+/* check de la lista servicios */
+.icon__check {
+  color: green;
+  font-size: 22px;
+}
+
+.lista__servicios li {
+  text-shadow: 1px 0px 0px black, 0 0 3em rgba(0, 255, 17, 0.534);
+  color: black;
+  font-family: "Merriweather Sans", "sans-serif";
 }
