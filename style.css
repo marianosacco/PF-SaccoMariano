@@ -12,6 +12,7 @@
 .navbar {
   background-color: #06223de7;
   text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
+  box-shadow: 1px 11px 10px 5px #02172be7;
 }
 
 /* bg seccion inicial */
@@ -52,16 +53,13 @@
   list-style: none;
 }
 
+/* Elemento lista especialistas */
 .lista__espec--li {
   font-family: "Bebas Neue", cursive;
   font-size: 22px;
   text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
   text-align: center;
   padding-bottom: 1rem;
-}
-
-.card-text {
-  font-family: "monospace";
 }
 
 /* Footer */
@@ -79,6 +77,8 @@ footer {
 .fonts__footer {
   font-family: "Roboto";
   font-size: 15px;
+  text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
+    0 0 0.2em rgb(10, 10, 153);
 }
 
 /* Iconos footer */
@@ -91,4 +91,10 @@ footer {
   justify-content: space-between;
   display: flex;
   padding: 7px;
+}
+
+main {
+  background-color: rgba(219, 215, 215, 0.192);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
