@@ -1,3 +1,44 @@
+/* Google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,400;0,700;1,800&family=Sofia+Sans:wght@300&display=swap");
+
+/* GoogleFonts HTML */
+* {
+  font-family: "Merriweather Sans", sans-serif;
+  font-family: "Sofia Sans", sans-serif;
+}
+
+/* bg-nav */
 .navbar {
   background-color: #06223de7;
+}
+
+/* .titulo__principal h1 {
+  font-size: 24px;
+}
+ */
+
+/* aplica a todas las imgs */
+
+img {
+  max-width: 100%;
+}
+
+.imgs {
+  height: 65%;
+}
+
+/* bg seccion */
+.seccion {
+  background-image: url(imgs/network-city.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+
+/* bg textos con img*/
+.bg-txt {
+  background-color: rgba(0, 0, 0, 0.527);
+  display: flex;
+  justify-content: center;
+  text-align: center;
 }
