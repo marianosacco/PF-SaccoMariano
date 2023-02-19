@@ -11,11 +11,12 @@
   background-color: #06223de7;
 }
 
-/* bg seccion */
-.seccion {
+/* bg seccion inicial */
+.seccion1 {
   background-image: url(imgs/network-city.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  padding-bottom: 0;
 }
 
 /* bg textos con img*/
@@ -24,6 +25,14 @@
   display: flex;
   justify-content: center;
   text-align: center;
+}
+
+/* Título lista especialistas */
+.subtitulos {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
+    0 0 0.2em rgb(10, 10, 153);
 }
 
 /* Lista especialistas */
@@ -48,9 +57,6 @@
   padding-bottom: 1rem;
 }
 
-.subtitulos {
-  font-size: 30px;
-  font-family: "Roboto", sans-serif;
-  text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
-    0 0 0.2em rgb(10, 10, 153);
+.card img {
+  height: 10rem;
 }
