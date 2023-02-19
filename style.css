@@ -159,3 +159,7 @@ main {
 .datos__form label {
   text-align: center;
 }
+
+/* ancho de inputs */
+.datos__personas .input {
+}

@@ -91,14 +91,16 @@
       </nav>
     </header>
     <main>
+      <div class="p-4"></div>
+      <div class="container">
+        <h1 class="text-center">Contacto</h1>
+      </div>
       <section>
         <div class="p-5"></div>
         <div class="container">
           <div class="row">
-            <div
-              class="col-md-6 d-flex flex-column justify-content-end align-intems-end"
-            >
-              <p class="text-center">Nuestra dirección.</p>
+            <div class="col-md-6 d-flex flex-column justify-content-evenly">
+              <img src="../imgs/hpconnect.png" alt="homeConnect" />
               <div
                 class="embed-responsive embed-responsive-16by9 d-flex flex-column"
               >
@@ -110,39 +112,48 @@
                   referrerpolicy="no-referrer-when-downgrade"
                 ></iframe>
               </div>
+              <p class="text-start">
+                MegaFibra. Calle xxxxx, ciudad xxxx CPXXXX <br />
+                Teléfono: (123) 456-7890 <br />
+                mail: megafibra@dominio.com.ar
+              </p>
             </div>
             <div class="col-md-6">
               <form action="" class="d-flex justify-content-center p-2">
                 <fieldset>
-                  <legend>Envíe su mensaje</legend>
+                  <legend class="text-center">Envíe su mensaje</legend>
                   <div class="inputs">
                     <div class="datos__form">
-                      <div>
+                      <div class="datos__persona">
                         <label for="nombre">Nombre</label>
                         <input type="text" name="nombre" />
                       </div>
+                      <br />
                       <div>
                         <label for="apellido">Apellido</label>
                         <input type="text" name="apellido" />
                       </div>
+                      <br />
                       <div>
                         <label for="mail"> mail</label>
                         <input type="text" name="mail" />
                       </div>
                     </div>
-                    <h4>Indique y comente el motivo de su contacto:</h4>
+                    <h5 class="text-center">
+                      Indique y comente el motivo de su contacto:
+                    </h5>
                     <div>
-                      <div>
+                      <div class="text-center">
                         Técnica
                         <input type="radio" name="consulta" value="Técnica" />
                       </div>
-                      <div>
+                      <div class="text-center">
                         Comercial
                         <input type="radio" name="consulta" value="Comercial" />
                       </div>
                     </div>
                     <br />
-                    <div>
+                    <div class="text-center">
                       ¿Desea recibir newsletters?
                       <input type="checkbox" name="acepta" value="1" />
                     </div>
@@ -154,19 +165,21 @@
                       <option value="Software">Licencia de Software</option>
                       <option value="Startup">StartUp</option>
                     </select>
-                    <br />
-                    <div>
-                      <label for="mensaje">Mensaje:</label>
+                    <div class="p-2"></div>
+                    <div class="text-center">
+                      <label for="mensaje">Mensaje: <br /> </label>
                       <textarea
                         name="mensaje"
                         id=""
-                        cols="30"
+                        cols="35"
                         rows="10"
                       ></textarea>
                     </div>
                     <br />
-                    <input type="submit" value="Enviar" />
-                    <input type="reset" value="Borrar" />
+                    <div class="text-center">
+                      <input clas type="submit" value="Enviar" />
+                      <input type="reset" value="Borrar" />
+                    </div>
                   </div>
                 </fieldset>
               </form>
