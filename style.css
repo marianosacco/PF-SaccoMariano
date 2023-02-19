@@ -20,7 +20,6 @@
   background-image: url(imgs/network-city.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 0;
 }
 
 /* bg textos con img*/
@@ -45,10 +44,7 @@
 }
 
 .lista__espe {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
   color: white;
   list-style: none;
 }
@@ -58,8 +54,7 @@
   font-family: "Bebas Neue", cursive;
   font-size: 22px;
   text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
-  text-align: center;
-  padding-bottom: 1rem;
+  padding-bottom: 2.3rem;
 }
 
 /* Footer */
@@ -97,4 +92,8 @@ main {
   background-color: rgba(219, 215, 215, 0.192);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+li i {
+  padding: 2rem;
 }
