@@ -137,3 +137,10 @@ main {
   color: black;
   font-family: "Merriweather Sans", "sans-serif";
 }
+
+/* imagenes en productos */
+.productos img {
+  max-width: 50%;
+  height: 50%;
+  align-items: center;
+}
