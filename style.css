@@ -12,7 +12,7 @@
 .navbar {
   background-color: #06223de7;
   text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
-  box-shadow: 1px 11px 10px 5px #02172be7;
+  box-shadow: 0px 10px 25px 1px; /*  #02213d8f; */
   font-size: 17px;
 }
 
@@ -21,6 +21,14 @@
   background-image: url(imgs/network-city.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  box-shadow: 0px 10px 25px 1px;
+}
+
+/* estilos de bg y otros seccion2 */
+
+.bg-seccion2 {
+  /*  background-color: #06223de7; */
+  box-shadow: 0px 10px 25px 1px /*  #05345f2a */;
 }
 
 /* bg textos con img*/
@@ -46,7 +54,7 @@
 
 .lista__espe {
   text-align: center;
-  color: white;
+  color: rgb(255, 255, 255);
   list-style: none;
 }
 
@@ -72,6 +80,7 @@ li i {
 footer {
   background-color: #06223de7;
   height: 5rem;
+  display: flex;
 }
 
 .fonts__list--redes {
@@ -140,9 +149,16 @@ main {
 
 /* imagenes en productos */
 .productos img {
-  max-width: 50%;
-  height: 50%;
-  align-items: center;
+  max-width: 200px;
+  height: 150px;
+}
+
+.productos .card {
+  height: 100%;
+}
+
+.decripcion {
+  background-color: black;
 }
 
 /* Orden en el form */
