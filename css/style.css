@@ -1,0 +1,181 @@
+/* Iconos bootstrap */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
+/* Google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Merriweather+Sans:ital,wght@0,400;0,700;1,800&family=Roboto&family=Roboto+Mono:ital@1&family=Sofia+Sans:wght@300&display=swap"); /* GoogleFonts HTML */
+* {
+  font-family: "Merriweather Sans", sans-serif;
+  font-family: "Sofia Sans", sans-serif;
+}
+
+/* bg-nav */
+.navbar {
+  background-color: #06223de7;
+  text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
+  box-shadow: 0px 10px 25px 1px; /*  #02213d8f; */
+  font-size: 17px;
+}
+
+/* bg seccion inicial */
+.seccion1 {
+  background-image: url(../imgs/network-city.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 10px 25px 1px;
+}
+
+/* estilos de bg y otros seccion2 */
+
+.bg-seccion2 {
+  /*  background-color: #06223de7; */
+  box-shadow: 0px 10px 25px 1px /*  #05345f2a */;
+}
+
+/* bg textos con img*/
+.bg-txt {
+  background-color: rgba(0, 0, 0, 0.527);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+/* Título lista especialistas */
+.subtitulos {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
+    0 0 0.2em rgb(10, 10, 153);
+}
+
+/* Lista especialistas */
+.fonts__list {
+  font-family: "Bebas Neue", cursive;
+}
+
+.lista__espe {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  list-style: none;
+}
+
+/* Padding de list */
+li i {
+  padding: 2rem;
+}
+
+/* Elemento lista especialistas */
+.lista__espec--li {
+  font-family: "Bebas Neue", cursive;
+  font-size: 22px;
+  text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
+  padding-bottom: 2.3rem;
+}
+
+/* estrellas bg */
+.estrella {
+  color: green;
+}
+
+/* Footer */
+footer {
+  background-color: #06223de7;
+  height: 5rem;
+  display: flex;
+}
+
+.fonts__list--redes {
+  font-family: "sans-serif";
+  font-size: 14px;
+}
+
+/* Firma autor */
+.fonts__footer {
+  font-family: "Roboto";
+  font-size: 15px;
+  text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
+    0 0 0.2em rgb(10, 10, 153);
+}
+
+/* Iconos footer */
+.iconos {
+  display: flex;
+  padding-inline: 2rem;
+}
+
+.iconos__redes {
+  justify-content: space-between;
+  display: flex;
+  padding: 7px;
+}
+
+/* color de fondo */
+main {
+  background-color: rgba(219, 215, 215, 0.192);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Carrusel */
+.carousel-item img {
+  height: 500px;
+}
+
+/* Carrusel Sutbítulo */
+.carousel-caption {
+  text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
+}
+/* Carrusel descripción */
+.carousel-caption p {
+  text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
+}
+
+/* Lista servicios  */
+.lista__servicios li {
+  list-style: none;
+  padding: 1rem;
+}
+
+/* check de la lista servicios */
+.icon__check {
+  color: green;
+  font-size: 22px;
+}
+
+.lista__servicios li {
+  text-shadow: 1px 0px 0px black, 0 0 3em rgba(0, 255, 17, 0.534);
+  color: black;
+  font-family: "Merriweather Sans", "sans-serif";
+}
+
+/* imagenes en productos */
+.productos img {
+  max-width: 200px;
+  height: 150px;
+}
+
+.productos .card {
+  height: 100%;
+}
+
+.decripcion {
+  background-color: black;
+}
+
+/* Orden en el form */
+.datos__form {
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+}
+
+.datos__form input {
+  display: flex;
+}
+
+.datos__form label {
+  text-align: center;
+}
+
+/* ancho de inputs */
+.datos__personas .input {
+}
