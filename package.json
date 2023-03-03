@@ -1,0 +1,16 @@
+{
+  "name": "preentregra3-saccomariano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://marianosacco.github.io/PreEntrega3-SaccoMariano/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
