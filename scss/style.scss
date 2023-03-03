@@ -8,6 +8,12 @@
   font-family: "Sofia Sans", sans-serif;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 /* bg-nav */
 .navbar {
   background-color: #06223de7;
@@ -16,28 +22,26 @@
   font-size: 17px;
 }
 
-/* bg seccion inicial */
+/* bg seccion inicial */ /* estilos de bg y otros seccion2 */
 .seccion1 {
   background-image: url(../imgs/network-city.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 0px 10px 25px 1px;
+
+  .bg-txt {
+    background-color: rgba(0, 0, 0, 0.527);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
 }
 
-/* estilos de bg y otros seccion2 */
-
 .bg-seccion2 {
-  /*  background-color: #06223de7; */
   box-shadow: 0px 10px 25px 1px /*  #05345f2a */;
 }
 
 /* bg textos con img*/
-.bg-txt {
-  background-color: rgba(0, 0, 0, 0.527);
-  display: flex;
-  justify-content: center;
-  text-align: center;
-}
 
 /* Título lista especialistas */
 .subtitulos {
@@ -48,64 +52,30 @@
 }
 
 /* Lista especialistas */
-.fonts__list {
-  font-family: "Bebas Neue", cursive;
-}
 
 .lista__espe {
   text-align: center;
   color: rgb(255, 255, 255);
   list-style: none;
-}
 
-/* Padding de list */
-li i {
-  padding: 2rem;
-}
-
-/* Elemento lista especialistas */
-.lista__espec--li {
-  font-family: "Bebas Neue", cursive;
-  font-size: 22px;
-  text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
-  padding-bottom: 2.3rem;
+  .fonts__list {
+    font-family: "Bebas Neue", cursive;
+  }
+  .lista__espec--li {
+    font-family: "Bebas Neue", cursive;
+    font-size: 22px;
+    text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58),
+      0 0 0.2em rgb(0, 0, 15);
+    padding-bottom: 2.3rem;
+  }
+  li i {
+    padding: 2rem;
+  }
 }
 
 /* estrellas bg */
 .estrella {
   color: green;
-}
-
-/* Footer */
-footer {
-  background-color: #06223de7;
-  height: 5rem;
-  display: flex;
-}
-
-.fonts__list--redes {
-  font-family: "sans-serif";
-  font-size: 14px;
-}
-
-/* Firma autor */
-.fonts__footer {
-  font-family: "Roboto";
-  font-size: 15px;
-  text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
-    0 0 0.2em rgb(10, 10, 153);
-}
-
-/* Iconos footer */
-.iconos {
-  display: flex;
-  padding-inline: 2rem;
-}
-
-.iconos__redes {
-  justify-content: space-between;
-  display: flex;
-  padding: 7px;
 }
 
 /* color de fondo */
@@ -176,6 +146,31 @@ main {
   text-align: center;
 }
 
-/* ancho de inputs */
-.datos__personas .input {
+/* Footer */
+footer {
+  background-color: #06223de7;
+  height: 5rem;
+  display: flex;
+
+  .fonts__list--redes {
+    font-family: "sans-serif";
+    font-size: 14px;
+  }
+
+  .fonts__footer {
+    font-family: "Roboto";
+    font-size: 15px;
+    text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
+      0 0 0.2em rgb(10, 10, 153);
+  }
+  .iconos {
+    display: flex;
+    padding-inline: 2rem;
+  }
+
+  .iconos__redes {
+    justify-content: space-between;
+    display: flex;
+    padding: 7px;
+  }
 }
