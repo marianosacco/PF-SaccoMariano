@@ -1,0 +1,53 @@
+main {
+  background-color: rgba(219, 215, 215, 0.192);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Lista especialistas */
+.fonts__list {
+  font-family: "Bebas Neue", cursive;
+}
+
+/* bg seccion inicial */
+.seccion1 {
+  background-image: url(../imgs/network-city.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 10px 25px 1px;
+}
+
+.bg-seccion2 {
+  /*  background-color: #06223de7; */
+  box-shadow: 0px 10px 25px 1px /*  #05345f2a */;
+}
+
+/* Elemento lista especialistas */
+.lista__espec--li {
+  font-family: "Bebas Neue", cursive;
+  font-size: 22px;
+  text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
+  padding-bottom: 2.3rem;
+}
+
+.lista__espe {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  list-style: none;
+}
+
+.bg-txt {
+  background-color: rgba(0, 0, 0, 0.993);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.subtitulos {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
+    0 0 0.2em rgb(10, 10, 153);
+}
+li i {
+  padding: 2rem;
+}

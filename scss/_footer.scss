@@ -1,0 +1,31 @@
+/* Footer */
+footer {
+  background-color: #06223de7;
+  height: 5rem;
+  display: flex;
+}
+
+.fonts__list--redes {
+  font-family: "sans-serif";
+  font-size: 14px;
+}
+
+/* Firma autor */
+.fonts__footer {
+  font-family: "Roboto";
+  font-size: 15px;
+  text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
+    0 0 0.2em rgb(10, 10, 153);
+}
+
+/* Iconos footer */
+.iconos {
+  display: flex;
+  padding-inline: 2rem;
+}
+
+.iconos__redes {
+  justify-content: space-between;
+  display: flex;
+  padding: 7px;
+}

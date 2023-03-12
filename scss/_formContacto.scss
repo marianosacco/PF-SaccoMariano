@@ -1,0 +1,13 @@
+.datos__form {
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+}
+
+.datos__form input {
+  display: flex;
+}
+
+.datos__form label {
+  text-align: center;
+}
