@@ -15,6 +15,7 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 0px 10px 25px 1px;
+  padding-bottom: 2rem;
 }
 
 .bg-seccion2 {
@@ -52,16 +53,20 @@ main {
     0 0 0.2em rgb(10, 10, 153);
 }
 
-.container .section__servicios {
-  border-radius: 3rem;
-  display: flex;
-  justify-content: center;
+.container {
+  .section__servicios {
+    border-radius: 7rem;
+    padding-inline: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
 
-  img {
-    border-radius: 5rem;
-    width: 18rem;
-    margin: 2.3rem;
-    background-color: rgba(0, 0, 0, 0.884);
-    padding: 0.4rem;
+    background-color: rgba(255, 255, 255, 0.11);
+
+    img {
+      border-radius: 5rem;
+      background-color: rgba(0, 0, 0, 0.884);
+      padding: 0.2rem;
+      width: 18rem;
+    }
   }
 }
