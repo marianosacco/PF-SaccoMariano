@@ -7,11 +7,35 @@
   box-sizing: border-box;
 }
 
+main {
+  background-color: rgba(242, 253, 251, 0.39);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: rgba(13, 13, 141, 0.685);
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+/* imagenes en productos */
+.productos img {
+  max-width: 200px;
+  height: 150px;
+}
+.productos img .productos .card {
+  height: 100%;
+}
+.productos img .decripcion {
+  background-color: black;
+}
+
 .navbar {
   color: white;
   background-color: rgba(6, 34, 61, 0.9058823529);
-  text-shadow: 5px 3px 18px rgb(255, 255, 255), 0 0 10rem rgb(249, 249, 250), 0 0 0.2em rgb(157, 219, 238);
-  box-shadow: 0px 25px 25px 10px; /*  #02213d8f; */
+  background-image: radial-gradient(rgba(6, 34, 61, 0.9647058824), rgba(0, 0, 0, 0.836));
+  text-shadow: 5px 3px 18px rgb(102, 7, 7), 0 0 10rem rgb(249, 249, 250), 0 0 0.2em rgb(0, 40, 53);
+  box-shadow: 2px 25px 25px 10px; /*  #02213d8f; */
   font-size: 20px;
 }
 .navbar .navbar-nav {
@@ -21,17 +45,11 @@
   color: white;
 }
 .navbar .navbar-nav .nav-link:hover {
-  background-color: rgba(0, 0, 0, 0.39);
+  background-color: rgba(0, 0, 0, 0.219);
   border-radius: 0.3rem;
   padding: 0.5rem;
   max-width: max-content;
-  /* color: green; */
-}
-
-main {
-  background-color: rgba(242, 253, 251, 0.39);
-  background-repeat: no-repeat;
-  background-size: cover;
+  color: rgb(26, 219, 26);
 }
 
 /* Lista especialistas */
@@ -164,6 +182,7 @@ main {
 /* Footer */
 footer {
   background-color: rgba(6, 34, 61, 0.9058823529);
+  background-image: radial-gradient(rgba(6, 34, 61, 0.9647058824), rgba(0, 0, 0, 0.836));
   height: 5rem;
   display: flex;
 }

@@ -3,3 +3,25 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+main {
+  background-color: rgba(242, 253, 251, 0.39);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: $color-primario;
+  font-family: "Merriweather Sans", sans-serif;
+}
+/* imagenes en productos */
+.productos img {
+  max-width: 200px;
+  height: 150px;
+  .productos .card {
+    height: 100%;
+  }
+  .decripcion {
+    background-color: black;
+  }
+}
