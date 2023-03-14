@@ -6,6 +6,11 @@
 
 .productos .card {
   height: 100%;
+  transition: all 300ms;
+
+  &:hover {
+    transform: scaleY(1.15);
+  }
 }
 
 .decripcion {
