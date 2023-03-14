@@ -49,18 +49,47 @@
 
 .container {
   .section__servicios {
-    border-radius: 7rem;
-    padding-inline: 2rem;
+    border-radius: 2rem;
+    padding-inline: 1rem;
     padding-bottom: 1rem;
     padding-top: 1rem;
-
+    gap: 2rem;
     background-color: rgba(255, 255, 255, 0.11);
+    box-shadow: 5px 8px 12px black;
 
-    img {
-      border-radius: 5rem;
-      background-color: rgba(0, 0, 0, 0.884);
-      padding: 0.2rem;
+    .card {
+      transition: all 300ms;
       width: 18rem;
+
+      h5 {
+        display: flex;
+        justify-content: center;
+        font-size: 15px;
+        font-family: "Roboto", sans-serif;
+        text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
+          0 0 0.2em rgb(10, 10, 153);
+      }
+      p {
+        font-size: 15px;
+        font-family: "Roboto", sans-serif;
+
+        text-shadow: 1px 3px 2px black, 0 0 1em rgb(9, 9, 51),
+          0 0 0.2em rgb(10, 10, 153);
+        display: flex;
+        justify-content: center;
+        padding: 2rem;
+      }
+      &:hover {
+        transform: scale(1.15);
+      }
+
+      .card-text {
+        padding-top: 3rem;
+        text-align: center;
+        display: flex;
+        justify-content: stretch;
+        flex-direction: column;
+      }
     }
   }
 }

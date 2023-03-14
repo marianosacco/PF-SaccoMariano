@@ -12,13 +12,21 @@
 
 /* Carrusel Sutbítulo */
 .carousel-caption {
-  text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
+  p {
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
+      0 0 0.2em rgb(10, 10, 153);
+  }
+  h5 {
+    text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58),
+      0 0 0.2em rgb(0, 0, 15);
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+    text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209),
+      0 0 0.2em rgb(10, 10, 153);
+  }
 }
-/* Carrusel descripción */
-.carousel-caption p {
-  text-shadow: 5px 3px 5px black, 0 0 1em rgb(4, 4, 58), 0 0 0.2em rgb(0, 0, 15);
-}
-
 /* Lista servicios  */
 .lista__servicios li {
   list-style: none;
