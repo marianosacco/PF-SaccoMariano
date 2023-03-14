@@ -14,7 +14,7 @@ main {
 }
 
 h1 {
-  color: rgba(13, 13, 141, 0.685);
+  color: rgba(8, 47, 119, 0.863);
   font-family: "Merriweather Sans", sans-serif;
 }
 
@@ -186,12 +186,12 @@ h1 {
   height: 150px;
 }
 
-.productos .card {
+.productos .card-img-top {
   height: 100%;
   transition: all 300ms;
 }
-.productos .card:hover {
-  transform: scaleY(1.15);
+.productos .card-img-top:hover {
+  transform: scale(1.15);
 }
 
 .decripcion {

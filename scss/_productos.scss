@@ -4,12 +4,12 @@
   height: 150px;
 }
 
-.productos .card {
+.productos .card-img-top {
   height: 100%;
   transition: all 300ms;
 
   &:hover {
-    transform: scaleY(1.15);
+    transform: scale(1.15);
   }
 }
 
