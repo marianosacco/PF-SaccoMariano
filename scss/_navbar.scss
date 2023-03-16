@@ -10,14 +10,16 @@
     color: white;
     .nav-link {
       color: white;
+      transition: all ease;
     }
 
     .nav-link:hover {
-      background-color: rgba(0, 0, 0, 0.219);
+      background-color: rgba(0, 0, 0, 0.144);
       border-radius: 0.3rem;
       padding: 0.5rem;
       max-width: max-content;
       color: rgb(26, 219, 26);
+      transform: scale(1.1);
     }
   }
 }
