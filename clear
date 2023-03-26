@@ -1,0 +1,363 @@
+[33mcommit ea9f94856ea3498aaa8bf7be71946e2b30006ab7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Thu Mar 16 14:53:12 2023 -0300
+
+    modificacion de tarjetas productos
+
+[33mcommit 15ef0a593785124215c47db5f393f3546f29d172[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Thu Mar 16 13:20:39 2023 -0300
+
+    mejor lista de servicios
+
+[33mcommit 63cf5f501f2a61cbd9fb0f9f56a84454a7222184[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Thu Mar 16 12:43:48 2023 -0300
+
+    mejor navbar
+
+[33mcommit 776f51be2bfe58571c2279f0d00c06e20d6fbeb5[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Thu Mar 16 10:39:27 2023 -0300
+
+    agregue animacion en H1 index
+
+[33mcommit fe86f399b96b69f23ca145d6ca40599fbc48c64f[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 20:54:39 2023 -0300
+
+    mejor servicios index
+
+[33mcommit 35d772672b40ffbbb4ba04d2b73f5026e6ed0daa[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 20:48:03 2023 -0300
+
+    cargue los meta en los html2
+
+[33mcommit 24504ee830d880a8e4047523bd89acb7c7fc86da[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 20:44:48 2023 -0300
+
+    cargue los meta en los html
+
+[33mcommit 52bfe39135df384218c67416715709fc803f1281[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 20:10:03 2023 -0300
+
+    modifique transicion de productos
+
+[33mcommit 8e73430faaeb929d39a5613ad0fca00e3c3f2ca1[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 19:45:01 2023 -0300
+
+    se modifico favicon
+
+[33mcommit 99a242f25df4fbc50bac8a0d297b264c6b3512fb[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 19:35:30 2023 -0300
+
+    agregue etiquetas keywords
+
+[33mcommit 64fcd398082482f76dbdff2728d575938fd8fb8a[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 19:34:24 2023 -0300
+
+    mejore el peso de las imagenes
+
+[33mcommit 4c6b3092818936498d676fc6c1f21c6c1dc34735[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 19:22:54 2023 -0300
+
+    agregue etiquetas meta
+
+[33mcommit 57ddff430b1d669668abb2912bb58ed7185b7423[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 19:07:02 2023 -0300
+
+    agregue transiciones en productos
+
+[33mcommit 5b87a8a2fec296fa87f6141f60d3216add24b3c9[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 18:40:25 2023 -0300
+
+    agregue transiciones en el index
+
+[33mcommit ced8621cf1b85ba81570d4bcb81d5a52391a4136[m
+Merge: 530f6c7 788fb6f
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 16:38:13 2023 -0300
+
+    Merge branch 'main' of https://github.com/marianosacco/PreEntrega3-SaccoMariano
+
+[33mcommit 530f6c7c281b6544ed50f04d7aa02fc4b8da29cf[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Tue Mar 14 16:35:54 2023 -0300
+
+    agregue degradado footer y nav
+
+[33mcommit 788fb6fb50e7595bb8e3e2eb0f21dd497494d136[m
+Author: Mariano Sacco <123923573+marianosacco@users.noreply.github.com>
+Date:   Mon Mar 13 20:32:05 2023 -0300
+
+    Update Readme.md
+
+[33mcommit 654c18c395efb2131c1cb37f73a0991e1f946589[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Mon Mar 13 01:13:20 2023 -0300
+
+    modificaciones en index
+
+[33mcommit 9f375463717ad0f587e2c29a9b935c9f65873139[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Mar 12 23:47:52 2023 -0300
+
+    agregue imagenes en el index
+
+[33mcommit ad5accf0cd8374d9fd84d43fbde12577b8a1ca38[m
+Merge: d7cb70e 0f45694
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Mar 12 19:27:17 2023 -0300
+
+    modificaciones en index
+
+[33mcommit d7cb70e52e2ee74e20a7e6579fb259c3e7aaa7cc[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Mar 12 14:14:33 2023 -0300
+
+    agregue los partiers
+
+[33mcommit 0f45694467ed00403924c997977e4bfe1f823848[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Fri Mar 3 13:01:07 2023 -0300
+
+    modifique texto en servicios
+
+[33mcommit bd09b5f06bb70e789250ba3bc4f26623faa075a7[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Fri Mar 3 12:59:32 2023 -0300
+
+    segundo commit preentrega3
+
+[33mcommit 9ba5f98c4cedbb562f69a5acc2a350e2e24634ca[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Fri Mar 3 12:40:48 2023 -0300
+
+    primer commit en preentrega 3
+
+[33mcommit be09532b7c0dc27b2d5e78ce23652595387f0507[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Fri Mar 3 12:38:47 2023 -0300
+
+    first commit
+
+[33mcommit e7e60362b5e52ae90f074fceb3aaca3fb7714b0e[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Fri Mar 3 12:21:47 2023 -0300
+
+    agregue sass
+
+[33mcommit 63ebb1e92726f01540758c470f9ad221c9d4c14e[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Fri Mar 3 11:45:31 2023 -0300
+
+    cambie titulo
+
+[33mcommit e8812a4925773ad13e49fc840816dcd8eb9aaf23[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Wed Feb 22 02:36:19 2023 -0300
+
+     primer commit
+
+[33mcommit a434282e0c413177b3b78786ff1b033477c25c49[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Wed Feb 22 01:55:16 2023 -0300
+
+    primer commit
+
+[33mcommit 9fb77f289352ff3cd057307200668f93ce9dd289[m
+Merge: b3a69b8 3c71934
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Wed Feb 22 01:53:36 2023 -0300
+
+    primer commit
+
+[33mcommit b3a69b800409bf8e93d63e95117e7f892deedd62[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Wed Feb 22 01:48:48 2023 -0300
+
+    mejor productos e index
+
+[33mcommit 3c71934d1f100d24a338c47b745bfea41a084c2a[m
+Merge: 7f41452 5d962fe
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Mon Feb 20 13:18:40 2023 -0300
+
+    Merge branch 'main' of https://github.com/marianosacco/PreEntrega2-SaccoMariano
+
+[33mcommit 5d962feae2d550a7c76249111fe3fc2b601278b7[m
+Author: Mariano Sacco <123923573+marianosacco@users.noreply.github.com>
+Date:   Mon Feb 20 13:14:37 2023 -0300
+
+    Create Readme.md
+
+[33mcommit 7f414520fef56a115941aef27271459bc67567dc[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Mon Feb 20 13:09:16 2023 -0300
+
+    acomode tarjertas con gap
+
+[33mcommit ba195ede1af44ff03dc04289f73bec97fd60f541[m
+Author: Mariano Sacco <123923573+marianosacco@users.noreply.github.com>
+Date:   Sun Feb 19 15:48:57 2023 -0300
+
+    Delete notas.txt
+
+[33mcommit e2ecad4c5b757b1454e9a12de733a69aebd473d6[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 15:30:56 2023 -0300
+
+    agregue link
+
+[33mcommit 8db797ef900e99566d8faf32c405d484ab5396c3[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 14:57:16 2023 -0300
+
+    footerCorregido
+
+[33mcommit 07bf452368765f445edd6663b56214c3fe2e2d52[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 14:52:34 2023 -0300
+
+    modifique footer
+
+[33mcommit 2dc027fca02686fcd2bf65bcc5a821cad4be174c[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 14:50:20 2023 -0300
+
+    subo a github
+
+[33mcommit 0789609b7ac9960fd125bd004f9ca1451022117d[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 14:40:53 2023 -0300
+
+    fin
+
+[33mcommit 12de450455e2edc23a23e14cfe460fa207e0280b[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 14:11:58 2023 -0300
+
+    agregue iframe mapa
+
+[33mcommit c0a60c5c2522453cba2ca2c9c8a458fe33e71e89[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 12:34:18 2023 -0300
+
+    agregue productos
+
+[33mcommit 9a4b2ea701816f3ba44ae66e40bdb3057d9b3749[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 11:54:56 2023 -0300
+
+    cree productos
+
+[33mcommit 6e286c7ace062d8dbe5ce1ad5a74491cbb393632[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 10:31:22 2023 -0300
+
+    agregue servicios
+
+[33mcommit e2ad5542d1ca851a7016aa20fba843e66ef8894a[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 09:09:31 2023 -0300
+
+    cargue carrusel
+
+[33mcommit 7baec0b3c3dae39ab73525afb4686954773ba2d9[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 07:49:39 2023 -0300
+
+    cree nosotros
+
+[33mcommit 33eea25012678eb02820f415483b601661a2e0a9[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 07:23:16 2023 -0300
+
+    cree 4 paginas
+
+[33mcommit 16f6b9314811b82da19aacb59b7260208c0b5715[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 06:47:30 2023 -0300
+
+    list corregido
+
+[33mcommit bdc86b843477687fddf1fcf799cb04692ad661dc[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 06:08:01 2023 -0300
+
+    fin index
+
+[33mcommit fda75387279fe11afe52961bcd88d991f9cd72c2[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 05:30:55 2023 -0300
+
+    finalizado el index
+
+[33mcommit e5b29d89101497aac5b2635784378992a90e124c[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 04:34:55 2023 -0300
+
+    arregle cards
+
+[33mcommit 688f96def5d7e851c7e7b25905c7a1d48fa6e794[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 04:16:50 2023 -0300
+
+    agregue footer
+
+[33mcommit c08ef38d3f2f51a3d8d3afb66f2c0f6321478698[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 03:39:16 2023 -0300
+
+    cards agregadas
+
+[33mcommit 38ea2466eb2fcc77b37180c73b85a20f5be59a64[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 02:42:09 2023 -0300
+
+    agregue los badges
+
+[33mcommit 7296f9c7b35bb76d0b0050968f4ee0360deee649[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 02:22:58 2023 -0300
+
+    avance de seccion
+
+[33mcommit ae5436f6665ff88cae08c0a6e7d1eb400850b5d6[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sun Feb 19 01:00:57 2023 -0300
+
+    agregue la primer seccion
+
+[33mcommit c6c615ecee635640fa1f373a7d402330b324130f[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sat Feb 18 19:27:07 2023 -0300
+
+    acomodandoNav
+
+[33mcommit 94284f12587fcc596fc353be9c80fc1b3f8ced36[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sat Feb 18 01:54:22 2023 -0300
+
+    acomode la nav
+
+[33mcommit 6f01c9ead94ded411e5e22906a578b71c45d6d49[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sat Feb 18 00:20:56 2023 -0300
+
+    first commit
+
+[33mcommit 7a184121dca81c1fbef2339f521a14ddd72c4cbd[m
+Author: Mariano <marianohf.s@gmail.com>
+Date:   Sat Feb 18 00:13:00 2023 -0300
+
+    cree el navbar

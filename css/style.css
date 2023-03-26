@@ -74,7 +74,7 @@ h1 {
 }
 
 .bg-seccion2 {
-  /*  background-color: #06223de7; */
+  background-color: rgba(191, 224, 230, 0.1098039216);
   box-shadow: 0px 10px 25px 1px;
 }
 
@@ -92,6 +92,7 @@ h1 {
 
 .bg-txt {
   background-color: rgba(0, 0, 0, 0.678);
+  box-shadow: 5px 8px 12px black;
   display: flex;
   justify-content: center;
   text-align: center;
@@ -105,44 +106,48 @@ h1 {
   text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209), 0 0 0.2em rgb(10, 10, 153);
 }
 
-.container .section__servicios {
+.container-fluid .section__servicios {
   border-radius: 2rem;
   padding-inline: 1rem;
   padding-bottom: 1rem;
   padding-top: 1rem;
-  gap: 2rem;
-  background-color: rgba(255, 255, 255, 0.11);
+  gap: 1rem;
   box-shadow: 5px 8px 12px black;
   max-width: max-content;
 }
-.container .section__servicios .card {
+.container-fluid .section__servicios .card {
   transition: all 300ms;
-  width: 18rem;
 }
-.container .section__servicios .card h5 {
+.container-fluid .section__servicios .card h5 {
   display: flex;
   justify-content: center;
-  font-size: 15px;
+  font-size: 30px;
   font-family: "Roboto", sans-serif;
   text-shadow: 1px 3px 2px black, 0 0 1em rgb(131, 131, 209), 0 0 0.2em rgb(10, 10, 153);
 }
-.container .section__servicios .card p {
-  font-size: 15px;
+.container-fluid .section__servicios .card p {
+  display: flex;
+  text-align: center;
+  font-size: 22px;
   font-family: "Roboto", sans-serif;
   text-shadow: 1px 3px 2px black, 0 0 1em rgb(9, 9, 51), 0 0 0.2em rgb(10, 10, 153);
   display: flex;
   justify-content: center;
   padding: 2rem;
 }
-.container .section__servicios .card:hover {
+.container-fluid .section__servicios .card:hover {
   transform: scale(1.15);
 }
-.container .section__servicios .card .card-text {
+.container-fluid .section__servicios .card .card-text {
   padding-top: 3rem;
   text-align: center;
   display: flex;
   justify-content: stretch;
   flex-direction: column;
+}
+
+.comment {
+  color: rgba(5, 58, 5, 0.863);
 }
 
 /* color de fondo */
@@ -208,8 +213,10 @@ li {
 
 .datos__form {
   display: flex;
+  text-align: center;
   flex-direction: column;
   padding: 3rem;
+  align-items: center;
 }
 
 .datos__form input {
@@ -224,7 +231,7 @@ li {
 footer {
   background-color: rgba(6, 34, 61, 0.9058823529);
   background-image: radial-gradient(rgba(6, 34, 61, 0.9647058824), rgba(0, 0, 0, 0.836));
-  height: 5rem;
+  height: 7rem;
   display: flex;
 }
 
@@ -243,13 +250,16 @@ footer {
 /* Iconos footer */
 .iconos {
   display: flex;
-  padding-inline: 2rem;
+  padding-inline: 1rem;
 }
 
 .iconos__redes {
   justify-content: space-between;
   display: flex;
   padding: 7px;
+}
+.iconos__redes:hover {
+  color: rgb(29, 199, 29);
 }
 
 /* GoogleFonts HTML */

@@ -2,7 +2,7 @@
 footer {
   background-color: #06223de7;
   background-image: $bg-nav-footer;
-  height: 5rem;
+  height: 7rem;
   display: flex;
 }
 
@@ -22,11 +22,15 @@ footer {
 /* Iconos footer */
 .iconos {
   display: flex;
-  padding-inline: 2rem;
+  padding-inline: 1rem;
 }
 
 .iconos__redes {
   justify-content: space-between;
   display: flex;
   padding: 7px;
+
+  &:hover {
+    color: rgb(29, 199, 29);
+  }
 }
